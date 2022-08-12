@@ -1,0 +1,6 @@
+{
+    "env": {
+      "MDBUSER": "root-shop",
+      "MDBPASS": "mypass12"
+    }
+  }
